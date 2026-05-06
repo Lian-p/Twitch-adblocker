@@ -16,9 +16,6 @@ Installiere **[uBlock Origin](https://ublockorigin.com/de)** (⚠️**nicht** Or
 ---
 
 ## Regeln
-
-Füge folgende Zeilen ein:
-
 ```
 no-cosmetic-filtering: www.twitch.tv true
 no-large-media: behind-the-scene false
