@@ -1,7 +1,8 @@
 # 🛡️ Twitch Ad-Blocker – Anleitung
 
 ## Voraussetzungen
-Installiere **[uBlock Origin](https://ublockorigin.com/de)** (⚠️ **nicht** Origin Lite).
+Installiere **[uBlock Origin](https://ublockorigin.com/de)** (⚠️**nicht** Origin Lite).
+> **⚠️Hinweis:** Funktioniert nicht auf Chrome – [Arc](https://arc.net/) ist sowieso die bessere Wahl.
 
 ---
 
