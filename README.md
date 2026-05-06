@@ -9,8 +9,8 @@ Installiere **[uBlock Origin](https://ublockorigin.com/de)** (⚠️ **nicht** O
 1. Klicke auf das **uBlock Origin-Symbol** in der Browserleiste
 2. Öffne die **Einstellungen** (Zahnrad-Icon)
 3. Wechsle zum Tab **„Meine Regeln"**
-4. Klicke auf **„Aus Datei importieren"** oder füge die Regeln manuell ein
-5. Klicke auf **„Dauerhaft speichern"**
+4. Lade [ublock-dynamische-regeln.txt herunterladen](https://github.com/Lian-p/Twitch-adblocker/raw/refs/heads/main/ublock-dynamische-regeln.txt) und importiere sie über „Aus Datei importieren"
+6. Klicke auf **„Dauerhaft speichern"**
 
 ---
 
